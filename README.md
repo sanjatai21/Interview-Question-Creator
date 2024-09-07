@@ -13,7 +13,7 @@
 # conda activate interview
 
 
-
+# E
 # BASH
 # 1. git clone https://github.com/sanjatai21/Interview-Question-Creator.git
 
@@ -21,7 +21,7 @@
 # git commit -m "readme updated"
 #
 # code .   #to opn VS-Code
-#
+#  
 # STEPS
 # 1. Create GitHub REPO
 # 2. Cloned Repo in Our PC

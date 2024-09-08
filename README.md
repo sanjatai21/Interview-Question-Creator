@@ -13,7 +13,7 @@
 # conda activate interview
 
 
-# E
+
 # BASH
 # 1. git clone https://github.com/sanjatai21/Interview-Question-Creator.git
 
